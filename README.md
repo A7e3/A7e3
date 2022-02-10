@@ -3,6 +3,3 @@
 
 - 📱 Contact:
   - [Twitter](https://twitter.com/skripterror "skripterror")
-  - [Steam](https://steamcommunity.com/id/skripterror/ "skripterror")
-
-Affiliated with [FBS](https://twitter.com/FBScollective "FuckBeingSad")
