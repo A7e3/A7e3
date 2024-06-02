@@ -2,7 +2,7 @@
 
 
 - 📱 Contact:
-  - [Twitter](https://twitter.com/NerpxMC "Nerpx")
+  - [Twitter](https://twitter.com/GitCLIMC "GitCLI")
 
 if you contacting me regarding a secruity issue please use PGP (Pretty good Privacy)
 
